@@ -1,0 +1,4 @@
+gesture_mappings:
+  ONE_FINGER: "click"
+  TWO_FINGERS: "scroll_down"
+  THREE_FINGERS: "alt_tab"
