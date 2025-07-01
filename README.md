@@ -75,7 +75,7 @@ Available actions include:
 
 ## License
 
-[Include license information]
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
 
 ## Acknowledgements
 
