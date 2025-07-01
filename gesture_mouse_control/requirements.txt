@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+pyautogui
+pyyaml
+win10toast  # New dependency for Windows notifications
